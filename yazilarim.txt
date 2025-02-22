@@ -1,0 +1,4 @@
+Depo sayfasında, "Add file" (Dosya ekle) butonuna tıkla.
+Açılan menüden "Create new file" (Yeni dosya oluştur) seçeneğini seç.
+Dosya adı kısmına bir isim yaz (örneğin: yazilarim.txt).
+Yazdıklarını dosya içeriği kısmına yapıştır
